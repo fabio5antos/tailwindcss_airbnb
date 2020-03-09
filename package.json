@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:css": "postcss style.css -o style.main.css"
+    "build:css": "postcss style.css -o style.min.css"
   },
   "keywords": [],
   "author": "",

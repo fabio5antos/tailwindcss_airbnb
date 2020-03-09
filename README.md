@@ -87,7 +87,7 @@
     para 
 
 ```
-    <link rel="stylesheet" href="style.main.css"> 
+    <link rel="stylesheet" href="style.min.css"> 
 ```
 
 no index.html e veja que não mudará nada no seu site.
