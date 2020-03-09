@@ -69,7 +69,7 @@
 - Vá até o arquivo package.json, em "scripts" e adicione o script deixando como abaixo
 ```
     "scripts": {
-        "build:css": "postcss style.css -o style.main.css"
+        "build:css": "postcss style.css -o style.min.css"
     },
 ```
 
